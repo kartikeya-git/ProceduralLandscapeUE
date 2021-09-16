@@ -4,6 +4,8 @@ Using the Editor Shader Graph, creating landscapes and oceans within a material 
 Currently support landscape layers, runtime asset spawning, runtime collisions, features multiple triplanar material and a basic landscape material.
 There's also an 'improved perlin noise' implemented.
 
+Don't forget to disabled the "caching" option within the detail panel for instant feedback on your landscape!
+
 Requires the ability to compile C++ projects within Unreal Engine.
 
 [Post on unreal engine forum](https://forums.unrealengine.com/t/procedural-landscape-from-shader-graph-w-geometry-clipmaps-bp-c-download/247694)
